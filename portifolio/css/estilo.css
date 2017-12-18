@@ -1,0 +1,113 @@
+.navbar {
+	min-height: 70px;
+}
+
+.navbar ul li a {
+	font-size: 20px;
+}
+
+#myForm {
+	max-width: 320px;
+	margin: 5px;
+}
+
+.active-menu {
+	border-bottom: 2px solid black;
+} 
+
+#content {
+	margin-top: 105px;
+	font-size: 18px;
+}
+
+
+.card {
+	border: 3px groove  #e3e3e3;
+	margin: 0 auto; 
+} 
+
+#carouselcontent {
+	margin-top: 10px;
+}
+
+.btn-green {
+	background-color: green;
+	color: white;
+}
+
+.imagem {
+	width: 100%;
+}
+
+.library-text {
+	margin-top: 20px;
+}
+
+#myfooter {
+	font-size: 20px;
+}
+
+.test {
+	margin-right: 20px;
+}
+
+#inscricao {
+	margin-top: 20px;
+}
+
+.inscricao-bloco {
+	height: 150px;
+}
+
+#botaoinscricao {
+	font-size: 28px;
+	margin-top: 50px;
+
+}
+
+.card-body {
+	margin: 10px;
+}
+
+.formulario {
+	margin-top: 150px;
+	font-size: 22px;
+	background-color: #f0f0f5;
+}
+
+#formulariocorpo {
+	border: 2px solid #4C3C1B;
+	margin: 20px;
+	border-radius: 5px;
+
+}
+
+#formulariocampos {
+	margin: 10px;
+	font-size: 18px;
+}
+
+.topsep {
+	border-top: 3px solid grey;
+}
+
+.btn-warning {
+	color: black;
+}
+
+nav .form-control {
+	max-width: 280px;
+}
+
+
+@media screen and (min-width: 992px) {
+    nav ul {
+    	margin-left: 80px;
+    }
+
+    nav .dropdown-toggle
+    {
+    	margin-right: 80px;
+    }
+}
+
